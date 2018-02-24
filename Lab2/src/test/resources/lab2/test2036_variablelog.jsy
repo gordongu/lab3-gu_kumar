@@ -1,3 +1,0 @@
-const x = 15.1;
-console.log(x + 2.1)
-x - 2
